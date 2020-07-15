@@ -8,7 +8,7 @@ Gan_study=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논�
 
 Gan_Mnist= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 실습 예제  
 <br>
-objection_Detection= 
+Objection_Detection= 
 
 --------------------------------------------------
 
