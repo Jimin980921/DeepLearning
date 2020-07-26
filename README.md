@@ -10,8 +10,7 @@ Gan_Mnist= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이
 <br>
 
 
-Objection_Detection= inception_resnet_v2 모듈을 사용한 실습
-<br>
+Objection_Detection= inception_resnet_v2 모듈을 사용한 실습  
 
 Mnist1=   
 Mnist2=  
