@@ -1,4 +1,7 @@
 ## Gan (Generative Adversarial Network)  
+<img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=60%>
+<br>
+
 
 생성자, 판별자의 경쟁을 통해 더 나은 모델을 생성  
 
