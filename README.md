@@ -1,5 +1,5 @@
-### Do it Deeplearning책 스터디 실습 모음  
-__Gan__  : 생성자, 판별자의 경쟁을 통해 더 나은 모델을 만든다. 
+## Gan(Generative Adversarial Network)  
+생성자, 판별자의 경쟁을 통해 더 나은 모델을 생성  
 
 Gan_study=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약
 <br>
