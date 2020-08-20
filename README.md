@@ -1,4 +1,4 @@
-## Gan(Generative Adversarial Network)  
+## Gan (Generative Adversarial Network)  
 생성자, 판별자의 경쟁을 통해 더 나은 모델을 생성  
 
 Gan_study=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약
