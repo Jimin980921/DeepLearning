@@ -4,13 +4,13 @@
 
 생성자(__Generator__), 판별자(__Discriminator__)의 경쟁을 통해 더 나은 모델을 생성  
 
-- [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약  
+- [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)= https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약  
 - [Gan_Mnist](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_Mnist.ipynb)= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 실습 예제  
 <br>
 
 ---------------------------------------------
 ## Mnist  
-Objection_Detection= inception_resnet_v2 모듈을 사용한 실습  
+[Objection_Detection](https://github.com/Jimin980921/DeepLearning_study/blob/master/Objection_detection.ipynb)= inception_resnet_v2 모듈을 사용한 실습  
 
  Mnist1=   
  Mnist2=  
