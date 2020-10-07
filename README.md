@@ -10,8 +10,8 @@
 
 ---------------------------------------------
 ## fruit_objection_detection  
-<img src="https://user-images.githubusercontent.com/57060127/95289523-dcaec780-08a5-11eb-98d9-63a9ac445ea0.JPG" width=50%>
-<img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=50%>
+<img src="https://user-images.githubusercontent.com/57060127/95289523-dcaec780-08a5-11eb-98d9-63a9ac445ea0.JPG" width=30%>
+<img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>
 <br>
 
 
