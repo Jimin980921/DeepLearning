@@ -33,13 +33,12 @@
 
 - __segmentaion 02__  
   - 여러 사물, 배경 합성하기  
-    __원본__ 
+    __원본__   
     <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
   <br>
   
-  
-  
-     __여러 사물 labeling__  
+ 
+    __여러 사물 labeling__    
     <img src="https://user-images.githubusercontent.com/57060127/94830539-a22cd100-0446-11eb-9abe-3d66fdfed6ba.JPG" width="50%">  
    <br>
    
