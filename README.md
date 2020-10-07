@@ -22,7 +22,7 @@
 
 --------------------------------------------------
 ## image segmentation  
-- __segmentaion 01__
+- __segmentaion 01__  
 개발환경: python3, pytorch deeplabv3 renet101 model  
   - 단일 사물 , 배경 합성하기  
   <img src="https://user-images.githubusercontent.com/57060127/94826863-b969bf80-0442-11eb-9ea0-60daccf8a4b9.JPG" width="80%">  
