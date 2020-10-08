@@ -15,7 +15,6 @@
 - __segmentaion 02__   
 개발환경: python3, MaskRCNN  
   - 여러 사물, 배경 합성하기  
-__원본__
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
   <br>
   
