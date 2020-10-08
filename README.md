@@ -2,7 +2,7 @@
 
 ## image segmentation  
 - __segmentaion 01__  
-개발환경: python3, pytorch deeplabv3 renet101 model  
+__개발환경: python3, pytorch deeplabv3 renet101 model__    
   - 단일 사물 , 배경 합성하기  
   <img src="https://user-images.githubusercontent.com/57060127/94826863-b969bf80-0442-11eb-9ea0-60daccf8a4b9.JPG" width="80%">  
 
@@ -12,7 +12,7 @@
 <br>
 
 - __segmentaion 02__   
-개발환경: python3, MaskRCNN  
+__개발환경: python3, MaskRCNN__   
   - 여러 사물, 배경 합성하기  
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
   <br>
@@ -45,7 +45,7 @@
 
 ---------------------------------------------
 ## objection_detection  
-개발환경: python3, tensorflow-Object Detection API  
+__개발환경: python3, tensorflow-Object Detection API__   
 <img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>
 <br>
 <br>
