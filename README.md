@@ -16,11 +16,11 @@
 개발환경: python3, MaskRCNN  
   - 여러 사물, 배경 합성하기  
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
-  __원본__ 
+  __원본__  
   <br>
    
   <img src="https://user-images.githubusercontent.com/57060127/94830539-a22cd100-0446-11eb-9abe-3d66fdfed6ba.JPG" width="50%">  
-  __여러 사물 labeling__ 
+  __여러 사물 labeling__  
    <br>
    
    
