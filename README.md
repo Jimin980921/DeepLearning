@@ -1,5 +1,4 @@
-## 딥러닝 스터디 모음  
-<br>
+# 딥러닝 스터디 모음  
 
 ## image segmentation  
 - __segmentaion 01__  
