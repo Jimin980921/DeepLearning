@@ -32,7 +32,13 @@ __개발환경: python3, MaskRCNN__
 #### 응용 app: [어플 연동](https://github.com/Jimin980921/darame)
 
 ----------------------------------------------------------------
+## objection_detection  
+__개발환경: python3, tensorflow-Object Detection API__   
+<img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>  
+<br>
 
+
+---------------------------------------------
 ### Gan (Generative Adversarial Network)  
 <img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>
 <br>
@@ -42,11 +48,6 @@ __개발환경: python3, MaskRCNN__
 - [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)= https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약  
 - [Gan_Mnist](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_Mnist.ipynb)= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 예제  
 <br>
-
----------------------------------------------
-## objection_detection  
-__개발환경: python3, tensorflow-Object Detection API__   
-<img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>
 <br>
 <br>
 <br>
