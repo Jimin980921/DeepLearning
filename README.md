@@ -40,7 +40,7 @@ __개발환경: python3, tensorflow-Object Detection API__
 
 
 ---------------------------------------------
-### Gan (Generative Adversarial Network)  
+## Gan (Generative Adversarial Network)  
 <img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>
 <br>
 
