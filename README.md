@@ -1,6 +1,6 @@
 # 딥러닝 스터디 모음  
 
-## image segmentation  
+## instance segmentation  
 - __segmentaion 01__  
 __개발환경: python3, pytorch deeplabv3 renet101 model__    
   - 단일 사물 , 배경 합성하기  
