@@ -41,9 +41,7 @@ __개발환경: python3, tensorflow-Object Detection API__
 
 ---------------------------------------------
 ## Gan (Generative Adversarial Network)  
-<img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>
-<br>
-
+<img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>  
 생성자(__Generator__), 판별자(__Discriminator__)의 경쟁을 통해 더 나은 모델을 생성  
 
 - [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)= https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약  
