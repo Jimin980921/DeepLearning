@@ -41,8 +41,8 @@ __개발환경: python3, tensorflow-Object Detection API__
 
 ---------------------------------------------
 ## Gan (Generative Adversarial Network)  
-<img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>  
-생성자(__Generator__), 판별자(__Discriminator__)의 경쟁을 통해 더 나은 모델을 생성  
+<img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>    
+__생성자(Generator), 판별자(Discriminator)__의 경쟁을 통해 더 나은 모델을 생성    
 
 - [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)= https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337 논문요약  
 - [Gan_Mnist](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_Mnist.ipynb)= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 예제  
