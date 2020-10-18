@@ -18,7 +18,7 @@
   <br>
   
    
-   __다중 사물 라벨링__  
+   다중 사물 라벨링   
   <img src="https://user-images.githubusercontent.com/57060127/94830539-a22cd100-0446-11eb-9abe-3d66fdfed6ba.JPG" width="50%">  
    <br>
    
