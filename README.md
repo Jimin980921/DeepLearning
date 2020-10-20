@@ -8,7 +8,7 @@
 
   - 합성 결과   
   <img src="https://user-images.githubusercontent.com/57060127/94826865-ba025600-0442-11eb-8a15-3e739a1631c4.JPG" width="35%">
-<br>
+<br>  
 <br>
 
 - __segmentaion 02__   
