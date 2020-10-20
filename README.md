@@ -1,4 +1,4 @@
-# 딥러닝 스터디 모음  
+# 딥러닝 스터디 모음   
 
 ## instance segmentation    
 - __segmentaion 01__  
