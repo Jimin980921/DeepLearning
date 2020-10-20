@@ -31,7 +31,7 @@
 
 #### 응용 app: [어플 연동](https://github.com/Jimin980921/darame)
 
-----------------------------------------------------------------
+----------------------------------------------------------------  
 ## objection_detection  
 > __개발환경: python3, tensorflow-Object Detection API__   
 <img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>  
