@@ -27,7 +27,7 @@
   - 원본에서 특정사물만 모자이크하기  
   <img src="https://user-images.githubusercontent.com/57060127/94830648-c12b6300-0446-11eb-95cc-7a76e429cea7.JPG" width="50%">  
    <br>
-   <br>
+   <br> 
 
 #### 응용 app: [어플 연동](https://github.com/Jimin980921/darame) 
  
