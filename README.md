@@ -29,7 +29,7 @@
    <br>
    <br>
 
-#### 응용 app: [어플 연동](https://github.com/Jimin980921/darame)
+#### 응용 app: [어플 연동](https://github.com/Jimin980921/darame) 
  
 ----------------------------------------------------------------  
 ## objection_detection  
