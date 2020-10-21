@@ -50,5 +50,5 @@ __생성자(Generator)__, __판별자(Discriminator)__ 의 경쟁을 통해 더 
 <br>
 <br>
 <br>
-<br>
+<br>  
 
