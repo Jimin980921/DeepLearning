@@ -3,7 +3,7 @@
 ## instance segmentation    
 - __segmentaion 01__  
 > __개발환경: python3, pytorch deeplabv3 renet101 model__        
-  - __단일 사물 , 배경 합성하기__              
+  - __단일 사물 , 배경 합성하기__               
   <img src="https://user-images.githubusercontent.com/57060127/94826863-b969bf80-0442-11eb-9ea0-60daccf8a4b9.JPG" width="70%">  
 
   - 합성 결과   
