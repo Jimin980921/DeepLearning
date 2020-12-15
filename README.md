@@ -13,12 +13,10 @@
  
 - __segmentaion 02__      
 > __개발환경: python3, MaskRCNN__   
-  - __여러 사물, 배경 합성하기__    
+  - __다중 사물 라벨링__    
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
   <br>
   
-   
-   다중 사물 라벨링   
   <img src="https://user-images.githubusercontent.com/57060127/94830539-a22cd100-0446-11eb-9abe-3d66fdfed6ba.JPG" width="50%">  
    <br>
    
@@ -34,6 +32,7 @@
 ----------------------------------------------------------------  
 ## objection_detection  
 > __개발환경: python3, tensorflow-Object Detection API__   
+> 데이터 셋:  https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection  
 <img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>  
 <br>
 <br>
