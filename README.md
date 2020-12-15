@@ -1,7 +1,5 @@
-# 딥러닝 스터디 모음   
-   
-## instance segmentation         
-__segmentaion 01__   
+ # instance segmentation         
+### __segmentaion 01__   
 > __개발환경: python3, pytorch deeplabv3 renet101 model__        
   - __단일 사물 , 배경 합성하기__               
   <img src="https://user-images.githubusercontent.com/57060127/94826863-b969bf80-0442-11eb-9ea0-60daccf8a4b9.JPG" width="70%">  
@@ -11,7 +9,7 @@ __segmentaion 01__
 <br>  
 <br>  
  
-__segmentaion 02__      
+### __segmentaion 02__      
 > __개발환경: python3, MaskRCNN__   
   - __다중 사물 라벨링__    
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
@@ -30,7 +28,7 @@ __segmentaion 02__
 #### 응용 app: [어플 연동](https://github.com/Jimin980921/darame) 
  
 ----------------------------------------------------------------  
-## objection_detection  
+# objection_detection  
 > __개발환경: python3, tensorflow-Object Detection API__   
 > 데이터 셋:  https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection  
 <img src="https://user-images.githubusercontent.com/57060127/95289524-dddff480-08a5-11eb-9905-0279594d3e09.JPG" width=30%>  
@@ -39,7 +37,7 @@ __segmentaion 02__
 
 
 ---------------------------------------------
-## Gan (Generative Adversarial Network)  
+# Gan (Generative Adversarial Network)  
 <img src="https://user-images.githubusercontent.com/57060127/90776546-2f074980-e335-11ea-8c4e-f385f449f096.JPG" width=50%>  
 
 __생성자(Generator)__, __판별자(Discriminator)__ 의 경쟁을 통해 더 나은 모델을 생성    
