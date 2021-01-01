@@ -13,6 +13,8 @@
   - __다중 사물 라벨링__    
   <img src="https://user-images.githubusercontent.com/57060127/94830388-7c9fc780-0446-11eb-850c-2aa9eacec683.JPG" width="50%">  
   <img src="https://user-images.githubusercontent.com/57060127/94830539-a22cd100-0446-11eb-9abe-3d66fdfed6ba.JPG" width="50%">  
+  <p>
+ 
   - __원본에서 특정사물만 모자이크하기__  
   <img src="https://user-images.githubusercontent.com/57060127/94830648-c12b6300-0446-11eb-95cc-7a76e429cea7.JPG" width="50%">  
   <p>
