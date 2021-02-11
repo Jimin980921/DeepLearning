@@ -35,4 +35,4 @@ __생성자(Generator)__, __판별자(Discriminator)__ 의 경쟁을 통해 더 
 
 - [Gan_study](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_study.ipynb)= 논문요약
    - 논문: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935337   
-- [Gan_Mnist](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_Mnist.ipynb)= Mnist 데이터를 가지고, noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 예제  
+- [Gan_Mnist](https://github.com/Jimin980921/DeepLearning_study/blob/master/Gan_Mnist.ipynb)= noise(난수 생성방법)로 가짜이미지 생성, discriminator로 이미지 식별 예제  
